@@ -1,7 +1,9 @@
 # Introduce-to-github
 
 Any text with no empty lines between will become a paragraph.
+<b>
 Another line.
+<b>
 Font *Italic* or **Bold text**
 code highlight : `import numpy as np` using backtick
 
